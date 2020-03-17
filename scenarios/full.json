@@ -1,0 +1,10 @@
+{ 
+  "noEscape": true,
+  "name": "demo",
+  "version":"1.0.0",
+  "description": "a vue spa project",
+  "author": "harhao",
+  "router": false,
+  "redux": false,
+  "autoInstall": false
+}
